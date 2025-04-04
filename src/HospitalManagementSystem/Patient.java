@@ -29,7 +29,7 @@ public class Patient{
            if(affectedRoes > 0){
                System.out.println("Patient Added Successfully");
            }else{
-               System.out.println("Patient Not Added Successfully");
+               System.out.println("Patient Not Added Successfully...");
            }
 
 
